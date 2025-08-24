@@ -1,0 +1,5 @@
+{
+  "props": {
+    "docsUrl": "https://docs.github.com/get-started/accessibility/keyboard-shortcuts"
+  }
+}
